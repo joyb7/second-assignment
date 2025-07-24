@@ -1,0 +1,114 @@
+
+/* header nav */
+.header {
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 120px;
+
+}
+.ul-cart{
+    display: flex;
+
+}
+
+.ul{
+    display: flex;
+}
+
+nav ul li{
+    margin-right: 30px;
+    list-style: none;
+}
+
+.cart {
+  display: flex;
+  align-items: center;
+  color: #863d3d;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.logo {
+    width: 135;
+    height: 82;
+}
+
+.headline {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1140;
+    height: 461;
+}
+
+.fresh-flowers {
+    color: #E95A08;
+}
+
+/* section our plant */
+.sell-margin{
+    margin-top: 120px;
+    margin-bottom: 210;
+}
+
+.our-plants {
+    text-align: center;
+    margin-bottom: 49px;
+}
+
+.sell {
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+}
+
+.list {
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+.btn {
+    padding: 26px 50px 26px 50px;
+    color: #FFFFFF;
+    background-color: #E95A08;
+    font-style:bold;
+    font-size: 16;
+    
+}
+
+/* Flower & Plants Lover */
+.plants{
+    margin-top: 210px;
+}
+
+.plants-lover{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.image-container {
+  position: relative;
+  width: 300px;
+}
+
+.main-imgage {
+  width: 540px;
+  height: 597px;
+}
+
+.badge {
+  position: absolute;
+  top: -150px;
+  left: 400px;
+  width: 286px;
+  height: 286;
+}
+
