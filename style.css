@@ -112,3 +112,15 @@ nav ul li{
   height: 286;
 }
 
+.heading-flower {
+    font-style: bold;
+    font-size: 50;
+    width: 540;
+    height: 137;
+}
+
+.include {
+    width: 540;
+    height: 108;
+    font-size: 22;
+}
