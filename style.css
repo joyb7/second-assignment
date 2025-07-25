@@ -191,7 +191,7 @@ nav ul li {
 /* join the etc */
 
 .body{
-    margin-top: 319px;
+    margin-top: 120px;
     padding: 0;
     display: flex;
     justify-content: center;
@@ -242,3 +242,12 @@ nav ul li {
 
 /* footer */
 
+.footer{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social{
+    padding-left: 24px;
+}
